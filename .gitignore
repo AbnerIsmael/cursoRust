@@ -1,0 +1,3 @@
+#Ignora todos los archivos binarios resultado de la compilación de los codigos de ejemplo.
+*.out
+
